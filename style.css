@@ -31,4 +31,7 @@ p
 body 
 {
 	background-image: url("linza_logo.jpg");
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
 }
