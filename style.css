@@ -1,10 +1,16 @@
-h3 
+h1.a
 {
-	color: blue;
+	color: rgb(12, 74, 77); 
+	font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+	font-variant: small-caps;
 }
-p 
+p.a
 {
-	color: aqua;
+	color: rgb(3, 5, 139); 
+	font-size: x-large; 
+	font-weight: 600;
+	font-family: 'Apple Chancery', cursive;
+	font-variant: small-caps;
 }
 .navbar 
 {
@@ -30,7 +36,7 @@ p
 }
 body 
 {
-	background-image: url("linza_logo.jpg");
+	background-image: url("background.jpg");
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
