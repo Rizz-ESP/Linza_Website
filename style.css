@@ -20,10 +20,7 @@ nav img {
 
 .navbar 
 {
-	background-color: #000000;
-	overflow: hidden;
-	display: flex;
-	justify-content: center;
+
 }
 .navbar-brand, .navbar-nav .nav-link 
 {
